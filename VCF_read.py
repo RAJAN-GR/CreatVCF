@@ -6,5 +6,3 @@ vcf_reader = vcf.Reader(open(r'D:\Software\Contact manager in smart phones/00001
 
 for record in vcf_reader:
 	print (record)
-
-# Just for check
